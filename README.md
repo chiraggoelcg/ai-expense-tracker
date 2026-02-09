@@ -2,15 +2,15 @@
 
 A full-stack expense tracking app that uses AI to parse natural language input into structured expense data.
 
-**Built by:** Chirag Goel  
-**GitHub:** Link to be added
+**Built by:** Chirag Goel    
+**GitHub:** [The AI Expense Tracker Challenge](https://github.com/chiraggoelcg/ai-expense-tracker)  
 **Time to build:** ~1 hour with AI assistance  
 
 ---
 
 ## 🎥 Demo
 
-[📹 Watch Demo Video](link-to-your-recording)
+[📹 Watch Demo Video](https://drive.google.com/file/d/1Uf_vWQoCUPlKDYpLVq28lvYYkffkd0zD/view?usp=sharing)
 
 **Quick Preview:**
 - Type: "uber to office 350 rupees"
